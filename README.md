@@ -1,16 +1,30 @@
-# learning_app
+# 📱 Internee.pk Learning App
 
-A new Flutter project.
+The **Internee.pk Learning App** is a mobile learning platform that allows users to access **courses, videos, and quizzes** from Internee.pk’s LMS — [learn.internee.pk](https://learn.internee.pk).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Objective
+Create a mobile app to access Internee.pk’s LMS for online courses and quizzes, making learning more accessible and interactive for interns and students.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
+- 📚 **Course Listing** – Fetch and display available courses from Internee.pk  
+- 🎥 **Video Player** – Stream course content directly within the app  
+- 🧠 **Quiz System** – Attempt quizzes with scoring and feedback  
+- 🔐 **Firebase Integration** – Manage user authentication and data securely  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧰 Tools & Technologies
+- **Flutter** – Frontend framework  
+- **REST APIs** – Backend communication  
+- **Firebase** – Authentication and real-time database  
+
+---
+
+## ⚙️ Installation
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/yourusername/interneepk-learning-app.git
